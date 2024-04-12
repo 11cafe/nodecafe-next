@@ -1,6 +1,8 @@
 # nodecafe.org
 
-A ComfyUI custom nodes package manager like Pypi. www.nodecafe.org/
+A ComfyUI custom nodes package manager. www.nodecafe.org/
+
+Hope this can be the Pypi or npm for comfyui custom nodes. To provide all custom nodes latest metrics and status, streamline custom nodes auto installations error-free. And provide some standards and guardrails for custom nodes development and release.
 
 - Frontend+backend: Nextjs
 - Storage: S3
@@ -8,6 +10,9 @@ A ComfyUI custom nodes package manager like Pypi. www.nodecafe.org/
 - Auth: Nextauth
 
 Still cleaning up some code so some files are not commited in repo yet.
+
+<img width="800" alt="Screenshot 2024-04-12 at 4 49 22 PM" src="https://github.com/11cafe/nodecafe-next/assets/18367033/0d28dc57-fa4c-48c3-8f98-9a426b58cdb7">
+
 
 ## Dev
 
