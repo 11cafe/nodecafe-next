@@ -1,0 +1,3 @@
+[submodule "comfyui-fork"]
+	path = comfyui-fork
+	url = https://github.com/11cafe/ComfyUI
